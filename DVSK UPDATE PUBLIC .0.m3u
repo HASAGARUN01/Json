@@ -5566,6 +5566,377 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/Et3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🎬 MOVIES", ETV4
 https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
 
+======================================
+
+============MOVIES===========
+============MOVIES===========
+============MOVIES===========
+============MOVIES===========
+============MOVIES===========
+
+=======================================
+
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.sv" tvg-logo="https://i.imgur.com/8osIZLM.png" group-title="🎬 MOVIES", HBO +
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=861ab989089891d84ad0da296954437c:3bdf94f9fc1888529f8d27d070d38566
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-PLUS-HD/default.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="Canal.HBO.2.Latinoamérica.mx" tvg-logo="https://i.imgur.com/ww8jPKB.png" group-title="🎬 MOVIES", HBO 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=09e84fc7ecb71def143cd7e2771f3b35:1a91f2d315fb0593321ba60aa783ec2c
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2-HD/default.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-logo="https://i.imgur.com/Y6164V7.png" group-title="🎬 MOVIES", HBO POP
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=bcf36f412fa3d735cea04f7443fbf77c:6ff29fb2d6b7d825eb06004650a0a4ea
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-POP-HD/default.mpd
+
+=======================================
+
+#EXTINF:-1 cuid="1793" tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-logo="https://logo.m3uassets.com/hbofamilylatinamerica.png" group-title="🎬 MOVIES", HBO Family
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=3b1b15c86e64344e8802b06b806957c5:114983add26911b589595d931b505ca5
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO-FAMILY-HD/default.mpd
+
+=======================================
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc8d4369fcff86db765db82356b4797c:8a7e801dbc275e3f4e1f43cba648906a
+#EXTINF:-1 tvg-id="HBO Extream" tvg-logo="https://img.hotice.site/icones_channels/HBO_XTREME_HD.png" group-title="🎬 MOVIES",HBO XTREME
+https://zap-live1-ott.izzigo.tv/5/out/u/dash/HBO-XTREME-HD/default.mpd
+
+=======================================
+
+#EXTINF:-1 group-title="🎬 MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbn4v0fDm8wzb7dFcwVr4a21oxOqsujYXhimlSRTzgrg&s=10", FLIK (INDIHOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+=======================================
+
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bbd293f9604131961bf10ddd1d6d31:ff08a6c78c1d1414a1cfae760ab623a9
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_I_QpPhpgHWLVWPflbBJOZBz3dLV6X3peTG4FIe3YVA&s=10" group-title="🎬 MOVIES",Celestial Movies
+https://atemecdnbalancer-voe.sysln.id/live/eds/CelestialMoviesHD/mpd/CelestialMoviesHD.mpd
+
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_I_QpPhpgHWLVWPflbBJOZBz3dLV6X3peTG4FIe3YVA&s=10" group-title="🎬 MOVIES",Celestial Movies (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="CCM - [Channel 45/22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkxlvyZHRStEUn-E_BboyHrzaKSZSsjN_R5DgEU-kCw&s=10" group-title="🎬 MOVIES",Celestial Classic (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/   
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="CCM - [Channel 45/22].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPkxlvyZHRStEUn-E_BboyHrzaKSZSsjN_R5DgEU-kCw&s=10" group-title="🎬 MOVIES",Celestial Classic
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#https://op-group1-swiftservesd-1.dens.tv/s/s31/01.m3u8
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="🎬 MOVIES",GALAXY
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://images.indihometv.com/tvposter/galaxy.png" group-title="🎬 MOVIES",GALAXY PREMIUM
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8c/K_Plus_Asia_Logo.jpg" group-title="🎬 MOVIES",K+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 46].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.transvision.co.id/img/channel/tvn_movies21.png" group-title="🎬 MOVIES",TvN movies HD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c645a10d3e4e4b8a5d7df419dc7566:9c1844243886ee1edc648bcdfdf88b2a
+https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
+
+=======================================
+
+#EXTINF:-1 group-title="🎬 MOVIES" tvg-id="SONE" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlnEQKqo7buui0Brrg_nl0O16gpwhNPZLgs1pRfKsvEg&s=10",ONE
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
+https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="HITS - [Saluran 77].id" tvg-url="https://i.imgur.com/43aPpA4.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJrlDn1D-sEno7cjkg4RVVZspVQhGfzZgQ4_JhbrkGQ&s=10" group-title="🎬 MOVIES",HITS
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCJrlDn1D-sEno7cjkg4RVVZspVQhGfzZgQ4_JhbrkGQ&s=10" group-title="🎬 MOVIES",HITS MOVIES
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
+
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcQDuJ39S6qMcidKrEC-XepO9g2QAGcgME5lGdSRxKSQ&s=10" group-title="🎬 MOVIES",KIX
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6300053f268640b9b2b695cb5ab0677e:cb81072bd6e4d4ff3b3187efff7928d1
+https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mpd/KIXHD.mpd
+
+=======================================
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPUWz2XD22fTH72z9ZW3nieuNwSZYzVRiZP09kW8qlVg&s=10" group-title="🎬 MOVIES",THRILL
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservesd-1.dens.tv/s/s34/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mVpcFt2r/THRILL.png" group-title="🎬 MOVIES",THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+=======================================
+
+#EXTINF:-1 tvg-id="AXN.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg3yA6j69SgJHnJymvKe2GYEQiczEZySLHGaZcKJ4Rdw&s=10" group-title="🎬 MOVIES",AXN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#https://av-ch-cdn.mncnow.id/live/eds/AXN/sa_dash/AXN.mpd
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQkjaCK2tDBoFID0I3yvphHvv01CtZ5kerQDEQlufeLA&s=10" group-title="🎬 MOVIES",MY CINEMA
+#http://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+ =======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj9P3I6Kz-D0kJ4CQrz4k2uTb-R6VXXICL1wE8kLRUdw&s=10" group-title="🎬 MOVIES",MY CINEMA ASIA
+http://op-group1-swiftservehd-1.dens.tv/h/h193/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Asia|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+ 
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2F735xMjtZ6NkD9wOHdYpFGVsaWaYZVC9fToP8G9-0w&s=10" group-title="🎬 MOVIES",MY FAMILY
+#http://op-group1-swiftservesd-1.dens.tv/h/h194/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+ 
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo22bJX1AurDGOJyXlJtsdnW57EaZqGZxfus1q7xbzCw&s=10" group-title="🎬 MOVIES",ORIGINALS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
+ 
+=======================================
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd_xFIo1zgxB1aDSZ7pOmqAQv5U9C8ep7ZYMvEYp74gg&s=10" group-title="🎬 MOVIES",Buddy Star
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2bfc3e059a9f4176b835a15c9a0c0dac:265c00f7fd825ad3e092b56081953b60
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c70975aaa68d47f2a38799e6730a7816/index.mpd
+
+=======================================
+
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnGGtDpaFDtJ_woLBckZDAdUm3IXHSLOjvHKlLzH2rQ&s=10" group-title="🎬 MOVIES",Cineedge
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe9QQZnrStA_wYydJGvq_r0Zk3ahrMgs8xsgS4xTT6Fw&s=10" group-title="🎬 MOVIES",SUPERRIX
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmcOOoRawdd_8MNsXatkIeIqk7LKooTHFlBKy97Ju4MQ&s=10" group-title="🎬 MOVIES",Uniquest
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-referrer=https://www.visionplus.id
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekEQn2Td91H4YKLyzingALO0zY0aVf_CLahxs4XsORQ&s=10" group-title="🎬 MOVIES",IMC
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+=======================================
+ 
+#EXTINF:-1 group-title="🎬 MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7eXRtPUuE2Yhs8rtF9weRhYwFis8XjMLHc8gCEGsUg&s=10",Drama Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_pro/index.drm?id=204
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://terabit.web.id/media.mpd?id=204&type=dash
+
+#EXTINF:-1 group-title="🎬 MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP7eXRtPUuE2Yhs8rtF9weRhYwFis8XjMLHc8gCEGsUg&s=10",Drama Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=204
+#https://bintangstreaming.my.id/rcti_plus/index.mpd?id=204
+
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR0scWnE7bFTVXTgGWR2a8VYzoIuJjbaBcZob5NCEDqw&s=10" group-title="🎬 MOVIES",ZEE BIOSKOP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d0197a8aca42589cf5df6daa576d86:ebd47832fd7251a09e3cc8eb36790ad5
+https://atemeshield1-voe.sysln.id/live/eds/ZeeBioskop/mpd/ZeeBioskop.mpd
+ 
+=======================================
+ 
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MzzASyxsK_eXBDypKvlLCptARo7SzYxSB1rWptA22w&s" group-title="🎬 MOVIES",ROCK ACTION
+http://op-group1-swiftservehd-1.dens.tv/h/h15/01.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/
+
+=======================================
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="🎬 MOVIES" tvg-logo="data:image/jpeg;base64,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",Citra Bioskop
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+ =======================================
+ 
+#EXTINF:-1 tvg-id="idh" tvg-logo="https://i.ibb.co.com/ccb4qs42/MS.png" group-title="🎬 MOVIES" , MAXTREAM (INDIHOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#http://code-app.web.id/play.mpd?hash=d11fa464a4335c5d5a0f296e55505c2ff03523722044a32ef528b15d0118ffc4
+ =======================================
+ 
+#EXTINF:-1 tvg-id="bioskop indonesia" tvg-logo="https://i.ibb.co.com/chVJ3ddY/BI.png" group-title="🎬 MOVIES",BIOSKOP INDONESIA
+#EXTVLCOPT:http-user-agent=xplayer168
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bioskopindonesia.m3u8
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bioskopindonesia%202.m3u8
+
+
+#EXTINF:-1 tvg-id="bioskop indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/chVJ3ddY/BI.png" group-title="🎬 MOVIES",Bioskop Indonesia (INDIHOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+=======================================
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Q7G9CsDq/CW.png" group-title="🎬 MOVIES",Cinema World (INDIHOME)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
+
+=======================================
+ 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/ym0tywNv/CD.png" group-title="🎬 MOVIES",Chinese Drama (INDIHOME)
+https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
+#https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+
+=======================================
+
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-logo="https://i.ibb.co.com/CpBVkcrZ/SU.png" group-title="🎬 MOVIES" ,Studio Universal
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36&O
+#KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+
+#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://i.ibb.co.com/CpBVkcrZ/SU.png" group-title="🎬 MOVIES" tvg-id="" , Studio Universal (INDIHOME)
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=646973636f3030303030303030303030:0b0c2a86713e0546df8ab4403927059d
+#https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+=======================================
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
+#EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="🎬 MOVIES",FMN (Telenovela)
+#https://d1abp075u76pbq.cloudfront.net/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+=======================================
+
+#EXTINF:-1  group-title="🎬 MOVIES" tvg-logo="https://i.ibb.co.com/gFt4WrjJ/DS.png", Dunia Sinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
+
+=======================================
+
+
 
 <================================================================== KIDS =============================================================>
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://d1tgyzt3mf06m9.cloudfront.net/eyJidWNrZXQiOiJraW5jaXJpbWFnZSIsImtleSI6InByb2R1Y3Rpb24vMjAyMi0xMC9jYXJ0b29uLW5ldHdvcmt+YTFmMGI5MGYtZGFjMy00NmMyLWFiMTMtYTNiZjA1NzNiMWQ1LmpwZyJ9" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="🚸 KIDS",Cartoon Network
@@ -6322,6 +6693,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
 #EXTVLCOPT:http-referrer=https://astro.com.my/
 https://coklat-astor.openwindows037.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
 
 
 
