@@ -5653,9 +5653,6 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Apple TV.id" group-logo="" tvg-logo="" group-title="🎙️ MUSIC", #INFO
-https://dl.dropboxusercontent.com/scl/fi/kfhn1rdcgeb4cdu9ccvxr/lv_0_20250616200820.mp4?rlkey=b9ile2myatmd420mvwjrk7zpj&st=556756nz
-
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-logo="" group-title="🎙️ MUSIC",MUSIC TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -6269,6 +6266,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Astro UHD 4K Build/1.0; wv)
 #EXTVLCOPT:http-referrer=https://astro.com.my/
 https://coklat-astor.openwindows037.workers.dev/https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+
 
 
 
